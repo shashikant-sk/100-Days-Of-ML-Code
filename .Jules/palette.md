@@ -1,0 +1,3 @@
+## 2024-05-24 - Image Accessibility in Markdown Portfolios
+**Learning:** Found that educational machine learning repositories often heavily rely on raw HTML `<img>` tags inside Markdown rather than standard Markdown image syntax (`![]()`) to achieve center alignment (`<p align="center">`). This often leads to developers forgetting to include `alt` attributes, making the educational infographics completely inaccessible to screen reader users.
+**Action:** Always scan for raw HTML `<img>` tags inside Markdown documentation files, as they are a frequent source of missing `alt` text in heavily visual educational repos.
