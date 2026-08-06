@@ -1,0 +1,3 @@
+## 2025-05-18 - Missing Alt Text on HTML `<img>` Tags in Markdown
+**Learning:** This repository extensively uses raw HTML `<img>` tags within its Markdown files to display images and infographics, instead of standard Markdown image syntax (`![alt](src)`). These `<img>` tags consistently lacked `alt` attributes, creating a recurring accessibility pattern where screen readers are unable to describe visual content.
+**Action:** When working in repositories that mix HTML inside Markdown, specifically look for `<img ...>` tags without `alt` attributes and add descriptive text, rather than only looking for standard Markdown image syntax.
