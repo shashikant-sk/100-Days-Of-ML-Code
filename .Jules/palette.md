@@ -1,0 +1,3 @@
+## 2024-05-18 - HTML Image Tags in Markdown
+**Learning:** This codebase uses HTML `<img>` tags for images in markdown files (e.g., `README.md`) instead of standard markdown syntax (`![alt](url)`). Many of these tags are missing `alt` attributes, violating accessibility guidelines.
+**Action:** Always verify and manually add `alt` text to `<img>` tags when updating or adding images in this repository to ensure screen reader accessibility.
