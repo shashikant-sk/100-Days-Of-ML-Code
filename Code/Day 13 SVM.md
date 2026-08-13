@@ -66,7 +66,7 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/ets.png">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/ets.png" alt="Ets">
 </p>
 
 ## Visualising the Test set results
@@ -89,5 +89,5 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/test.png">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/test.png" alt="Test">
 </p>
