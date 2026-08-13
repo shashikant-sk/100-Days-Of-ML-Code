@@ -1,3 +1,4 @@
+<!-- Bolt: Added loading="lazy" to image tags to reduce initial page load time and save bandwidth -->
 # 100-Days-Of-ML-Code
 
 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
@@ -8,27 +9,27 @@ Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tr
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
 </p>
 
 ## Simple Linear Regression | Day 2
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
 ## Multiple Linear Regression | Day 3
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
 </p>
 
 ## Logistic Regression | Day 4
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
 </p>
 
 ## Logistic Regression | Day 5
@@ -41,7 +42,7 @@ Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
 </p>
 
 ## Math Behind Logistic Regression | Day 8 
@@ -63,7 +64,7 @@ Support Vector Machine Infographic is halfway complete. Will update it tomorrow.
 
 ## Support Vector Machines | Day 12
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
 </p>
 
 ## Naive Bayes Classifier | Day 13
@@ -101,7 +102,7 @@ Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser
 
 ## Decision Trees | Day 23
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
 </p>
 
 ## Introduction To Statistical Learning Theory | Day 24
@@ -151,7 +152,7 @@ Link to the playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDM
 
 ## Random Forests | Day 33
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
 </p>
 
 ## Implementing Random Forests | Day 34
@@ -191,7 +192,7 @@ Working on my website check it out [avikjain.me](http://www.avikjain.me/)
 Also found a wonderful animation that can help to easily understand K - Means Clustering [Link](http://shabal.in/visuals/kmeans/6.html)
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
 </p>
 
 ## K Means Clustering Implementation | Day 44
@@ -274,5 +275,5 @@ Chapter 4: Covered Three Dimensional Plotting in Mathplotlib.
 Studied about Hierarchical Clustering.
 Check out this amazing [Visualization.](https://cdn-images-1.medium.com/max/800/1*ET8kCcPpr893vNZFs8j4xg.gif)
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2054.jpg">
+  <img loading="lazy" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2054.jpg">
 </p>
