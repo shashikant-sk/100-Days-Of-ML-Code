@@ -1,6 +1,6 @@
 # Decision Tree Classification
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
+  <img alt="Day 23" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
 </p>
 
 ### Importing the libraries
