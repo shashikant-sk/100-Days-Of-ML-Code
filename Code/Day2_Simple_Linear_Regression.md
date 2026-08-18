@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img alt="Day 2" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+  <img loading="lazy" alt="Day 2" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
 
