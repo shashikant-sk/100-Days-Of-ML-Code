@@ -2,24 +2,24 @@
 
 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
-Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
+Get the datasets from [the datasets directory](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
 
 ## Data PreProcessing | Day 1
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
+Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
   <img loading="lazy" alt="Day 1" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
 </p>
 
 ## Simple Linear Regression | Day 2
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
+Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
   <img loading="lazy" alt="Day 2" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
 ## Multiple Linear Regression | Day 3
-Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
+Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
   <img loading="lazy" alt="Day 3" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
@@ -37,7 +37,7 @@ Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
-Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
+Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
@@ -73,7 +73,7 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
-Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
+Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
 Learned about different types of naive bayes classifiers. Also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). First one in the playlist was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
