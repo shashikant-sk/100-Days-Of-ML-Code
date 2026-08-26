@@ -1,3 +1,6 @@
 ## 2024-05-24 - Performance: HTML <img> tags in Markdown
 **Learning:** This repository is heavily reliant on inline HTML `<img>` tags for displaying large infographics within its Markdown files. Since there are many images and no native application handling lazy loading, these embedded `<img>` tags create a performance bottleneck on page load by fetching all infographics simultaneously.
 **Action:** When optimizing performance in Markdown-heavy repositories like this, look for embedded HTML `<img>` tags and add `loading="lazy"` attributes. This simple web optimization drastically improves initial load times by deferring the fetching of off-screen images.
+## 2024-06-25 - Use direct raw URLs for image sources
+**Learning:** Replacing GitHub web UI URLs (`github.com/.../blob/...`) with direct raw URLs (`raw.githubusercontent.com/...`) in `src` attributes of `<img>` tags avoids loading GitHub's HTML wrapper, improving image load performance. However, applying this globally via a blanket string replace on Markdown files breaks navigational links that are intended to point to the web UI.
+**Action:** Always constrain URL substitutions to target specifically the `src` attribute (e.g., using a regex like `src="https://github.com/..."`) to prevent inadvertently modifying standard navigational hyperlinks.
