@@ -1,3 +1,6 @@
 ## 2024-05-24 - Accessibility: HTML <img> tags in Markdown
 **Learning:** This repository heavily uses inline HTML `<img>` tags within its Markdown files to center infographics, rather than using standard Markdown image syntax (`![alt](url)`). Many of these `<img>` tags lack `alt` attributes, making them inaccessible to screen readers.
 **Action:** When working on accessibility in this repo, use scripts to automatically find and inject descriptive `alt` attributes into inline HTML `<img>` tags across Markdown files, as doing it manually is tedious and error-prone. Ensure temporary scripts used for such batch operations are deleted before committing.
+## 2024-06-25 - [Accessibility & Readability Improvements in Markdown]
+**Learning:** Found that embedded HTML images in Markdown files often mistakenly link to GitHub blob URLs (`github.com/.../blob/...`) instead of raw image URLs (`raw.githubusercontent.com/...`). This breaks image rendering. Additionally, generic link texts like `[here]` were used instead of descriptive text, reducing accessibility for screen readers.
+**Action:** When working on Markdown documentation files, always ensure image sources use raw content URLs and replace non-descriptive links with contextually relevant, descriptive text (e.g., changing "Check the code [here]" to "Check [the code]").

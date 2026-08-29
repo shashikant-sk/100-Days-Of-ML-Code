@@ -1,10 +1,10 @@
 # Data PreProcessing
 <p align="center">
-  <img loading="lazy" alt="Day 1" src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img loading="lazy" alt="Day 1" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%201.jpg">
 </p>
 
 As shown in the infograph we will break down data preprocessing in 6 essential steps.
-Get the dataset from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets) that is used in this example
+Get [the dataset](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets) that is used in this example
 
 ## Step 1: Importing the libraries
 ```Python
