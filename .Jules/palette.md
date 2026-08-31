@@ -1,3 +1,6 @@
 ## 2024-05-24 - Accessibility: HTML <img> tags in Markdown
 **Learning:** This repository heavily uses inline HTML `<img>` tags within its Markdown files to center infographics, rather than using standard Markdown image syntax (`![alt](url)`). Many of these `<img>` tags lack `alt` attributes, making them inaccessible to screen readers.
 **Action:** When working on accessibility in this repo, use scripts to automatically find and inject descriptive `alt` attributes into inline HTML `<img>` tags across Markdown files, as doing it manually is tedious and error-prone. Ensure temporary scripts used for such batch operations are deleted before committing.
+## 2026-08-31 - Accessibility: Descriptive Links in Markdown
+**Learning:** This repository heavily uses generic link text like "[here]" or "[video.]" within its Markdown files. This is problematic for screen reader users who often navigate by compiling a list of links on a page, meaning isolated generic links provide zero context about their destination.
+**Action:** When working on accessibility in documentation or Markdown-heavy repos, ensure all link text is inherently descriptive (e.g., "[the dataset]" instead of "the dataset from [here]").
