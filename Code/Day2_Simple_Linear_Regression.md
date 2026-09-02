@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img loading="lazy" alt="Day 2" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%202.jpg">
+  <!-- Performance optimization: Added decoding="async" to prevent main-thread blocking during image decode -->
+  <img decoding="async" loading="lazy" alt="Day 2" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%202.jpg">
 </p>
 
 

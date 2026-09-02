@@ -1,13 +1,14 @@
 # K-Nearest Neighbors (K-NN)
 
 <p align="center">
-  <img loading="lazy" alt="Day 7" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
+  <!-- Performance optimization: Added decoding="async" to prevent main-thread blocking during image decode -->
+  <img decoding="async" loading="lazy" alt="Day 7" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
 </p>
 
 ## The DataSet | Social Network 
 
 <p align="center">
-  <img loading="lazy" alt="data" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
+  <img decoding="async" loading="lazy" alt="data" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
 </p> 
 
 
