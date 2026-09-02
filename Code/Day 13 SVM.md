@@ -66,7 +66,8 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img loading="lazy" alt="ets" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/ets.png">
+  <!-- Performance optimization: Added decoding="async" to prevent main-thread blocking during image decode -->
+  <img decoding="async" loading="lazy" alt="ets" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/ets.png">
 </p>
 
 ## Visualising the Test set results
@@ -89,5 +90,5 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img loading="lazy" alt="test" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/test.png">
+  <img decoding="async" loading="lazy" alt="test" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/test.png">
 </p>
