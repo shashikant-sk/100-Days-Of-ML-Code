@@ -5,3 +5,7 @@
 ## 2026-09-01 - Performance: Raw Image URLs in Markdown
 **Learning:** Using `github.com/.../blob/...` URLs in HTML `<img>` tags serves a heavier page wrapper, whereas `raw.githubusercontent.com/...` serves the image bytes directly, significantly reducing overhead and improving load time.
 **Action:** Always replace `github.com/.../blob/...` with `raw.githubusercontent.com/...` in `<img>` tag `src` attributes to optimize image loading performance.
+
+## 2026-09-03 - Performance: Image Decoding in Markdown
+**Learning:** Embedded HTML `<img>` tags in Markdown files (especially for large infographics) can block the main thread during image decoding, causing scroll jank.
+**Action:** Always use `decoding="async"` alongside `loading="lazy"` in HTML `<img>` tags to prevent main thread blocking and improve responsiveness.
