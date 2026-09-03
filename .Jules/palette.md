@@ -4,3 +4,6 @@
 ## 2026-09-01 - Accessibility: Descriptive Links and Raw Image Paths
 **Learning:** Using generic link text like "here" makes navigation difficult for screen readers. Using `blob` paths for GitHub images in HTML `<img>` tags returns HTML instead of raw image data.
 **Action:** Ensure links use descriptive text rather than "here", and change `blob` to `raw.githubusercontent.com` for direct image embeds.
+## 2026-09-03 - Descriptive Links for Accessibility
+**Learning:** In markdown-heavy educational repos, generic link text like "[video.]" or "[Link]" provides poor context for screen readers navigating via a links list.
+**Action:** Always replace generic link text with descriptive text that incorporates the target's purpose, ensuring grammatically sound surrounding text.
