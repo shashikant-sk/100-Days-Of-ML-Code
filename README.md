@@ -8,27 +8,27 @@ Get [the datasets](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/
 Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
-  <img loading="lazy" alt="Day 1" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%201.jpg">
+  <img loading="lazy" decoding="async" alt="Day 1" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%201.jpg">
 </p>
 
 ## Simple Linear Regression | Day 2
 Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
-  <img loading="lazy" alt="Day 2" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%202.jpg">
+  <img loading="lazy" decoding="async" alt="Day 2" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%202.jpg">
 </p>
 
 ## Multiple Linear Regression | Day 3
 Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
-  <img loading="lazy" alt="Day 3" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%203.jpg">
+  <img loading="lazy" decoding="async" alt="Day 3" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%203.jpg">
 </p>
 
 ## Logistic Regression | Day 4
 
 <p align="center">
-  <img loading="lazy" alt="Day 4" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%204.jpg">
+  <img loading="lazy" decoding="async" alt="Day 4" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%204.jpg">
 </p>
 
 ## Logistic Regression | Day 5
@@ -41,7 +41,7 @@ Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/maste
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
-  <img loading="lazy" alt="Day 7" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
+  <img loading="lazy" decoding="async" alt="Day 7" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
 </p>
 
 ## Math Behind Logistic Regression | Day 8 
@@ -63,7 +63,7 @@ Support Vector Machine Infographic is halfway complete. Will update it tomorrow.
 
 ## Support Vector Machines | Day 12
 <p align="center">
-  <img loading="lazy" alt="Day 12" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2012.jpg">
+  <img loading="lazy" decoding="async" alt="Day 12" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2012.jpg">
 </p>
 
 ## Naive Bayes Classifier | Day 13
@@ -101,7 +101,7 @@ Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser
 
 ## Decision Trees | Day 23
 <p align="center">
-  <img loading="lazy" alt="Day 23" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2023.jpg">
+  <img loading="lazy" decoding="async" alt="Day 23" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2023.jpg">
 </p>
 
 ## Introduction To Statistical Learning Theory | Day 24
@@ -113,45 +113,45 @@ Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Co
 ## Jumped To Brush up Linear Algebra | Day 26
 Found an amazing [channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on youtube 3Blue1Brown. It has a playlist called Essence of Linear Algebra. Started off by completing 4 videos which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations and Matrix Multiplication. 
 
-Link to [the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Access the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 ## Jumped To Brush up Linear Algebra | Day 27
 Continuing with the playlist completed next 4 videos discussing topics 3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space and Non-Square Matrices.
 
-Link to [the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Access the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 ## Jumped To Brush up Linear Algebra | Day 28
 In the playlist of 3Blue1Brown completed another 3 videos from the essence of linear algebra. 
 Topics covered were Dot Product and Cross Product.
 
-Link to [the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Access the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 
 ## Jumped To Brush up Linear Algebra | Day 29
 Completed the whole playlist today, videos 12-14. Really an amazing playlist to refresh the concepts of Linear Algebra.
 Topics covered were the change of basis, Eigenvectors and Eigenvalues, and Abstract Vector Spaces.
 
-Link to [the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Access the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 ## Essence of calculus | Day 30
 Completing the playlist - Essence of Linear Algebra by 3blue1brown a suggestion popped up by youtube regarding a series of videos again by the same channel 3Blue1Brown. Being already impressed by the previous series on Linear algebra I dived straight into it.
 Completed about 5 videos on topics such as Derivatives, Chain Rule, Product Rule, and derivative of exponential.
 
-Link to [the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+[Access the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 ## Essence of calculus | Day 31
 Watched 2 Videos on topic Implicit Diffrentiation and Limits from the playlist Essence of Calculus.
 
-Link to [the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+[Access the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 ## Essence of calculus | Day 32
 Watched the remaining 4 videos covering topics Like Integration and Higher order derivatives.
 
-Link to [the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+[Access the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 ## Random Forests | Day 33
 <p align="center">
-  <img loading="lazy" alt="Day 33" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2033.jpg">
+  <img loading="lazy" decoding="async" alt="Day 33" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2033.jpg">
 </p>
 
 ## Implementing Random Forests | Day 34
@@ -159,43 +159,43 @@ Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Co
 
 ## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 35
 An Amazing Video on neural networks by 3Blue1Brown youtube channel. This video gives a good understanding of Neural Networks and uses Handwritten digit dataset to explain the concept. 
-Link To the [video.](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
+[Watch the video](https://www.youtube.com/watch?v=aircAruvnKk&t=7s).
 
 ## Gradient descent, how neural networks learn | Deep learning, chapter 2 | Day 36
 Part two of neural networks by 3Blue1Brown youtube channel. This video explains the concepts of Gradient Descent in an interesting way. 169 must watch and highly recommended.
-Link To the [video.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+[Watch the video](https://www.youtube.com/watch?v=IHZwWFHWa-w).
 
 ## What is backpropagation really doing? | Deep learning, chapter 3 | Day 37
 Part three of neural networks by 3Blue1Brown youtube channel. This video mostly discusses the partial derivatives and backpropagation.
-Link To the [video.](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+[Watch the video](https://www.youtube.com/watch?v=Ilg3gGewQ5U).
 
 ## Backpropagation calculus | Deep learning, chapter 4 | Day 38
-Part four of neural networks by 3Blue1Brown youtube channel. The goal here is to represent, in somewhat more formal terms, the intuition for how backpropagation works and the video moslty discusses the partial derivatives and backpropagation.
-Link To the [video.](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+Part four of neural networks by 3Blue1Brown youtube channel. The goal is to represent, in somewhat more formal terms, the intuition for how backpropagation works and the video moslty discusses the partial derivatives and backpropagation.
+[Watch the video](https://www.youtube.com/watch?v=tIeHLnjs5U8).
 
 ## Deep Learning with Python, TensorFlow, and Keras tutorial | Day 39
-Link To the [video.](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+[Watch the video](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN).
 
 ## Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2 | Day 40
-Link To the [video.](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2)
+[Watch the video](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2).
 
 ## Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3 | Day 41
-Link To the [video.](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3)
+[Watch the video](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3).
 
 ## Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4 | Day 42
-Link To the [video.](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
+[Watch the video](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4).
 
 ## K Means Clustering | Day 43
 Moved to Unsupervised Learning and studied about Clustering.
 Working on my website check it out [avikjain.me](http://www.avikjain.me/)
-Also found a wonderful animation that can help to easily understand K - Means Clustering [Link](http://shabal.in/visuals/kmeans/6.html)
+Also found a [wonderful animation](http://shabal.in/visuals/kmeans/6.html) that can help to easily understand K - Means Clustering.
 
 <p align="center">
-  <img loading="lazy" alt="Day 43" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2043.jpg">
+  <img loading="lazy" decoding="async" alt="Day 43" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2043.jpg">
 </p>
 
 ## K Means Clustering Implementation | Day 44
-Implemented K Means Clustering. Check [the code]().
+Implemented K Means Clustering. Check out the code.
 
 ## Digging Deeper | NUMPY  | Day 45
 Got a new book "Python Data Science HandBook" by JK VanderPlas Check [the Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook).
@@ -208,14 +208,14 @@ Got a new book "Python Data Science HandBook" by JK VanderPlas Check [the Jupyte
 
 ## Digging Deeper | NUMPY | Day 46
 Chapter 2 : Aggregations, Comparisions and Broadcasting
-<br>Link to Notebook:
+<br>Access the Notebook:
 <br>[Aggregations: Min, Max, and Everything In Between](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb)
 <br>[Computation on Arrays: Broadcasting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
 <br>[Comparisons, Masks, and Boolean Logic](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
 
 ## Digging Deeper | NUMPY | Day 47
 Chapter 2 : Fancy Indexing, sorting arrays, Struchered Data
-<br>Link to Notebook:
+<br>Access the Notebook:
 <br>[Fancy Indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
 <br>[Sorting Arrays](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.08-Sorting.ipynb)
 <br>[Structured Data: NumPy's Structured Arrays](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-<br>Structured-Data-NumPy.ipynb)
@@ -223,7 +223,7 @@ Chapter 2 : Fancy Indexing, sorting arrays, Struchered Data
 ## Digging Deeper | PANDAS | Day 48
 Chapter 3 : Data Manipulation with Pandas
 <br> Covered Various topics like Pandas Objects, Data Indexing and Selection, Operating on Data, Handling Missing Data, Hierarchical Indexing, ConCat and Append.
-<br>Link To the Notebooks:
+<br>Access the Notebooks:
 <br>[Data Manipulation with Pandas](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 <br>[Introducing Pandas Objects](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
 <br>[Data Indexing and Selection](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
@@ -240,7 +240,7 @@ Chapter 3: Completed following topics- Merge and Join, Aggregation and grouping 
 
 ## Digging Deeper | PANDAS | Day 50
 Chapter 3: Vectorized Strings Operations, Working with Time Series
-<br>Links to Notebooks:
+<br>Access the Notebooks:
 <br>[Vectorized String Operations](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb)
 <br>[Working with Time Series](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
 <br>[High-Performance Pandas: eval() and query()](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.12-Performance-Eval-and-Query.ipynb)
@@ -248,7 +248,7 @@ Chapter 3: Vectorized Strings Operations, Working with Time Series
 ## Digging Deeper | MATPLOTLIB | Day 51
 Chapter 4: Visualization with Matplotlib 
 Learned about Simple Line Plots, Simple Scatter Plotsand Density and Contour Plots.
-<br>Links to Notebooks: 
+<br>Access the Notebooks:
 <br>[Visualization with Matplotlib](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
 <br>[Simple Line Plots](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)
 <br>[Simple Scatter Plots](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.02-Simple-Scatter-Plots.ipynb)
@@ -258,7 +258,7 @@ Learned about Simple Line Plots, Simple Scatter Plotsand Density and Contour Plo
 ## Digging Deeper | MATPLOTLIB | Day 52
 Chapter 4: Visualization with Matplotlib 
 Learned about Histograms, How to customize plot legends, colorbars, and buliding Multiple Subplots.
-<br>Links to Notebooks: 
+<br>Access the Notebooks:
 <br>[Histograms, Binnings, and Density](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)
 <br>[Customizing Plot Legends](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)
 <br>[Customizing Colorbars](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.07-Customizing-Colorbars.ipynb)
@@ -267,12 +267,12 @@ Learned about Histograms, How to customize plot legends, colorbars, and buliding
 
 ## Digging Deeper | MATPLOTLIB | Day 53
 Chapter 4: Covered Three Dimensional Plotting in Mathplotlib.
-<br>Links to Notebooks:
+<br>Access the Notebooks:
 <br>[Three-Dimensional Plotting in Matplotlib](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)
 
 ## Hierarchical Clustering | Day 54
 Studied about Hierarchical Clustering.
 Check out this amazing [Visualization.](https://cdn-images-1.medium.com/max/800/1*ET8kCcPpr893vNZFs8j4xg.gif)
 <p align="center">
-  <img loading="lazy" alt="Day 54" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2054.jpg">
+  <img loading="lazy" decoding="async" alt="Day 54" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%2054.jpg">
 </p>

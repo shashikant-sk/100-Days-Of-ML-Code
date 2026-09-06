@@ -2,16 +2,16 @@
 
 
 <p align="center">
-  <img loading="lazy" alt="Day 4" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%204.jpg">
+  <img loading="lazy" decoding="async" alt="Day 4" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%204.jpg">
 </p>
 
 ## The DataSet | Social Network 
 
 <p align="center">
-  <img loading="lazy" alt="data" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
+  <img loading="lazy" decoding="async" alt="data" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
 </p> 
 
-This dataset contains information of users in a social network. Those informations are the user id the gender the age and the estimated salary. A car company has just launched their brand new luxury SUV. And we're trying to see which of these users of the social network are going to buy this brand new SUV And the last column here tells If yes or no the user bought this SUV we are going to build a model that is going to predict if a user is going to buy or not the SUV based on two variables which are going to be the age and the estimated salary. So our matrix of feature is only going to be these two columns.
+This dataset contains information of users in a social network. Those informations are the user id the gender the age and the estimated salary. A car company has just launched their brand new luxury SUV. And we're trying to see which of these users of the social network are going to buy this brand new SUV And the last column tells if yes or no the user bought this SUV we are going to build a model that is going to predict if a user is going to buy or not the SUV based on two variables which are going to be the age and the estimated salary. So our matrix of feature is only going to be these two columns.
 We want to find some correlations between the age and the estimated salary of a user and his decision to purchase yes or no the SUV.
 
 ## Step 1 | Data Pre-Processing
@@ -49,7 +49,7 @@ X_test = sc.transform(X_test)
 ```
 ## Step 2 | Logistic Regression Model
 
-The library for this job which is going to be the linear model library and it is called linear because the logistic regression is a linear classifier which means that here since we're in two dimensions, our two categories of users are going to be separated by a straight line. Then import the logistic regression class.
+The library for this job which is going to be the linear model library and it is called linear because the logistic regression is a linear classifier which means that since we're in two dimensions, our two categories of users are going to be separated by a straight line. Then import the logistic regression class.
 Next we will create a new object from this class which is going to be our classifier that we are going to fit on our training set.
 
 ### Fitting Logistic Regression to the Training set
@@ -82,9 +82,9 @@ cm = confusion_matrix(y_test, y_pred)
 ## Visualization
 
 <p align="center">
-  <img loading="lazy" alt="training" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/training.png">
+  <img loading="lazy" decoding="async" alt="training" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/training.png">
 </p> 
 
 <p align="center">
-  <img loading="lazy" alt="testing" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/testing.png">
+  <img loading="lazy" decoding="async" alt="testing" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/testing.png">
 </p> 
