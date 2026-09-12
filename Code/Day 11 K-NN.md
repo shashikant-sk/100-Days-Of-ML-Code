@@ -7,7 +7,7 @@
 ## The DataSet | Social Network 
 
 <p align="center">
-  <img loading="lazy" alt="data" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
+  <img loading="lazy" alt="Dataset snapshot showing user ID, gender, age, estimated salary, and purchased status" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
 </p> 
 
 
