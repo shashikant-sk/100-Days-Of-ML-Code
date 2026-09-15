@@ -1,13 +1,13 @@
 # K-Nearest Neighbors (K-NN)
 
 <p align="center">
-  <img loading="lazy" alt="Day 7" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
+  <img decoding="async" loading="lazy" alt="Day 7" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
 </p>
 
 ## The DataSet | Social Network 
 
 <p align="center">
-  <img loading="lazy" alt="Screenshot of the dataset DataFrame showing User ID, Gender, Age, Estimated Salary, and Purchased status" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
+  <img decoding="async" loading="lazy" alt="Screenshot of the dataset DataFrame showing User ID, Gender, Age, Estimated Salary, and Purchased status" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/data.PNG">
 </p> 
 
 

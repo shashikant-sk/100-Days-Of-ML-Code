@@ -66,7 +66,7 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img loading="lazy" alt="Visualization of the SVM training set results showing the decision boundary" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/ets.png">
+  <img decoding="async" loading="lazy" alt="Visualization of the SVM training set results showing the decision boundary" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/ets.png">
 </p>
 
 ## Visualising the Test set results
@@ -89,5 +89,5 @@ plt.legend()
 plt.show()
 ```
 <p align="center">
-  <img loading="lazy" alt="Visualization of the SVM test set results showing the decision boundary" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/test.png">
+  <img decoding="async" loading="lazy" alt="Visualization of the SVM test set results showing the decision boundary" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Other%20Docs/test.png">
 </p>
