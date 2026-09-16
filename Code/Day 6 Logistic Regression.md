@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img decoding="async" loading="lazy" alt="Day 4" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%204.jpg">
+  <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 4 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%204.jpg">
 </p>
 
 ## The DataSet | Social Network 

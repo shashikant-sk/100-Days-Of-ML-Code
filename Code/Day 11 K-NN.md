@@ -1,7 +1,7 @@
 # K-Nearest Neighbors (K-NN)
 
 <p align="center">
-  <img decoding="async" loading="lazy" alt="Day 7" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
+  <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 7 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg">
 </p>
 
 ## The DataSet | Social Network 
