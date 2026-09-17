@@ -1,6 +1,6 @@
 # Data PreProcessing
 <p align="center">
-  <img decoding="async" loading="lazy" alt="Day 1" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%201.jpg">
+  <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 1 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%201.jpg">
 </p>
 
 As shown in the infograph we will break down data preprocessing in 6 essential steps.
