@@ -5,21 +5,21 @@
 Get [the datasets](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
 
 ## Data PreProcessing | Day 1
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
   <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 1 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%201.jpg">
 </p>
 
 ## Simple Linear Regression | Day 2
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
   <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 2 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%202.jpg">
 </p>
 
 ## Multiple Linear Regression | Day 3
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
   <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 3 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%203.jpg">
@@ -37,7 +37,7 @@ Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
@@ -73,7 +73,7 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
-Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
+Check [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
 Learned about different types of naive bayes classifiers. Also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). First one in the playlist was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
@@ -108,46 +108,46 @@ Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser
 Lec 3 of Bloomberg ML course introduced some of the core concepts like input space, action space, outcome space, prediction functions, loss functions, and hypothesis spaces.
 
 ## Implementing Decision Trees | Day 25
-Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md).
+Check [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md).
 
 ## Jumped To Brush up Linear Algebra | Day 26
 Found an amazing [channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on youtube 3Blue1Brown. It has a playlist called Essence of Linear Algebra. Started off by completing 4 videos which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations and Matrix Multiplication. 
 
-[Check out the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Check out the tutorial playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 ## Jumped To Brush up Linear Algebra | Day 27
 Continuing with the playlist completed next 4 videos discussing topics 3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space and Non-Square Matrices.
 
-[Check out the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Check out the tutorial playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 ## Jumped To Brush up Linear Algebra | Day 28
 In the playlist of 3Blue1Brown completed another 3 videos from the essence of linear algebra. 
 Topics covered were Dot Product and Cross Product.
 
-[Check out the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Check out the tutorial playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 
 ## Jumped To Brush up Linear Algebra | Day 29
 Completed the whole playlist today, videos 12-14. Really an amazing playlist to refresh the concepts of Linear Algebra.
 Topics covered were the change of basis, Eigenvectors and Eigenvalues, and Abstract Vector Spaces.
 
-[Check out the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+[Check out the tutorial playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 ## Essence of calculus | Day 30
 Completing the playlist - Essence of Linear Algebra by 3blue1brown a suggestion popped up by youtube regarding a series of videos again by the same channel 3Blue1Brown. Being already impressed by the previous series on Linear algebra I dived straight into it.
 Completed about 5 videos on topics such as Derivatives, Chain Rule, Product Rule, and derivative of exponential.
 
-[Check out the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+[Check out the tutorial playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 ## Essence of calculus | Day 31
 Watched 2 Videos on topic Implicit Diffrentiation and Limits from the playlist Essence of Calculus.
 
-[Check out the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+[Check out the tutorial playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 ## Essence of calculus | Day 32
 Watched the remaining 4 videos covering topics Like Integration and Higher order derivatives.
 
-[Check out the playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+[Check out the tutorial playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 
 ## Random Forests | Day 33
 <p align="center">
@@ -155,35 +155,35 @@ Watched the remaining 4 videos covering topics Like Integration and Higher order
 </p>
 
 ## Implementing Random Forests | Day 34
-Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md).
+Check [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md).
 
 ## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 35
 An Amazing Video on neural networks by 3Blue1Brown youtube channel. This video gives a good understanding of Neural Networks and uses Handwritten digit dataset to explain the concept. 
-[Watch the video](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
+[Watch the tutorial video](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
 
 ## Gradient descent, how neural networks learn | Deep learning, chapter 2 | Day 36
 Part two of neural networks by 3Blue1Brown youtube channel. This video explains the concepts of Gradient Descent in an interesting way. 169 must watch and highly recommended.
-[Watch the video](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+[Watch the tutorial video](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
 ## What is backpropagation really doing? | Deep learning, chapter 3 | Day 37
 Part three of neural networks by 3Blue1Brown youtube channel. This video mostly discusses the partial derivatives and backpropagation.
-[Watch the video](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+[Watch the tutorial video](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 
 ## Backpropagation calculus | Deep learning, chapter 4 | Day 38
 Part four of neural networks by 3Blue1Brown youtube channel. The goal here is to represent, in somewhat more formal terms, the intuition for how backpropagation works and the video moslty discusses the partial derivatives and backpropagation.
-[Watch the video](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+[Watch the tutorial video](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
 ## Deep Learning with Python, TensorFlow, and Keras tutorial | Day 39
-[Watch the video](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+[Watch the tutorial video](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
 ## Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2 | Day 40
-[Watch the video](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2)
+[Watch the tutorial video](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2)
 
 ## Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3 | Day 41
-[Watch the video](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3)
+[Watch the tutorial video](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3)
 
 ## Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4 | Day 42
-[Watch the video](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
+[Watch the tutorial video](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 
 ## K Means Clustering | Day 43
 Moved to Unsupervised Learning and studied about Clustering.
@@ -195,10 +195,10 @@ Also found a wonderful animation that can help to easily understand [K - Means C
 </p>
 
 ## K Means Clustering Implementation | Day 44
-Implemented K Means Clustering. Check [the code]().
+Implemented K Means Clustering. Check [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code).
 
 ## Digging Deeper | NUMPY  | Day 45
-Got a new book "Python Data Science HandBook" by JK VanderPlas Check [the Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook).
+Got a new book "Python Data Science HandBook" by JK VanderPlas Check [the interactive Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook).
 <br>Started with chapter 2 : Introduction to Numpy. Covered topics like Data Types, Numpy arrays and Computations on Numpy arrays.
 <br>Check the code - 
 <br>[Introduction to NumPy](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
