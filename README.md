@@ -5,21 +5,21 @@
 Get [the datasets](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
 
 ## Data PreProcessing | Day 1
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
   <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 1 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%201.jpg">
 </p>
 
 ## Simple Linear Regression | Day 2
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
   <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 2 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%202.jpg">
 </p>
 
 ## Multiple Linear Regression | Day 3
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
   <img decoding="async" loading="lazy" alt="Infographic summarizing the concepts and code for Day 3 of the 100 Days of ML Code curriculum" src="https://raw.githubusercontent.com/Avik-Jain/100-Days-Of-ML-Code/master/Info-graphs/Day%203.jpg">
@@ -37,7 +37,7 @@ Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
-Check out [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
+Check out [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
 
 ## K Nearest Neighbours | Day 7
 <p align="center">
@@ -73,7 +73,7 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
-Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
+Check [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
 Learned about different types of naive bayes classifiers. Also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). First one in the playlist was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
@@ -108,7 +108,7 @@ Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser
 Lec 3 of Bloomberg ML course introduced some of the core concepts like input space, action space, outcome space, prediction functions, loss functions, and hypothesis spaces.
 
 ## Implementing Decision Trees | Day 25
-Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md).
+Check [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md).
 
 ## Jumped To Brush up Linear Algebra | Day 26
 Found an amazing [channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on youtube 3Blue1Brown. It has a playlist called Essence of Linear Algebra. Started off by completing 4 videos which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations and Matrix Multiplication. 
@@ -155,7 +155,7 @@ Watched the remaining 4 videos covering topics Like Integration and Higher order
 </p>
 
 ## Implementing Random Forests | Day 34
-Check [the code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md).
+Check [the implementation code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md).
 
 ## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 35
 An Amazing Video on neural networks by 3Blue1Brown youtube channel. This video gives a good understanding of Neural Networks and uses Handwritten digit dataset to explain the concept. 
@@ -195,7 +195,7 @@ Also found a wonderful animation that can help to easily understand [K - Means C
 </p>
 
 ## K Means Clustering Implementation | Day 44
-Implemented K Means Clustering. Check [the code]().
+Implemented K Means Clustering. Check [the implementation code]().
 
 ## Digging Deeper | NUMPY  | Day 45
 Got a new book "Python Data Science HandBook" by JK VanderPlas Check [the Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook).
